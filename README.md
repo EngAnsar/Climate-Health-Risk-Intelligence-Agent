@@ -137,5 +137,4 @@ This project is released under CC BY-SA 4.0, as required by Kaggle competition r
 Ansar Ahmad
 AI & Analytics Engineer
 Kaggle: https://www.kaggle.com/ansar33
-LinkedIn: https://www.linkedin.com/in/ansar-dataseoexpert
 
